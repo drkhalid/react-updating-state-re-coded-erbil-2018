@@ -3,10 +3,8 @@ import ReactDOM from 'react-dom';
 import ClickityClick from './components/ClickityClick';
 
 ReactDOM.render(
-  <div>
-    Mount Components Here
-  </div>,
-    <ClickityClick />
+  
+    <ClickityClick />,
 
   document.getElementById('root')
 );
